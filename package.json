@@ -7,7 +7,8 @@
     "express": "^4.18.2",
     "express-session": "^1.17.3",
     "mongodb": "^6.1.0",
-    "mongoose": "^7.6.4"
+    "mongoose": "^7.6.4",
+    "nodemon": "^3.0.1"
   },
   "name": "book-management-app",
   "version": "1.0.0",
@@ -17,6 +18,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js"
   },
-  "author": "Prasanth Kumar Reddy",
+  "author": "chandipriya",
   "license": "ISC"
 }
