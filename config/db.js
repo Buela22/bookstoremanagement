@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-mongoose.connect('mongodb+srv://chbuela22:IsZ0shAChfejLrNW@cluster0.ebaa3v8.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp');
+mongoose.connect('mongodb+srv://Chandi-27:Chandi@cluster0.tjhsdwq.mongodb.net/BookStore_Management');
 
 const db = mongoose.connection;
 
